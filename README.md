@@ -6,22 +6,22 @@
 
 **KatsuGo** adalah platform self-ordering digital untuk kantin kampus yang memungkinkan mahasiswa memesan makanan langsung dari meja melalui QR Code — tanpa antre, tanpa ribet.
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-- 🌗 **Dark Mode / Night Mode** — Toggle tema gelap/terang dengan preferensi tersimpan di localStorage
-- 📱 **Responsive Design** — Tampil optimal di semua perangkat (mobile, tablet, desktop)
+-  **Dark Mode / Night Mode** — Toggle tema gelap/terang dengan preferensi tersimpan di localStorage
+-  **Responsive Design** — Tampil optimal di semua perangkat (mobile, tablet, desktop)
 -  **Modern UI/UX** — Animasi smooth, floating badges, dan particle effects
 -  **Fast Performance** — Dibangun dengan Vite untuk development dan build yang cepat
 -  **Component-Based** — Struktur React JSX yang modular dan mudah di-maintain
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React 18 + JSX
 - **Build Tool:** Vite 5
 - **Styling:** CSS3 (Custom Properties / CSS Variables)
 - **Font:** Plus Jakarta Sans (Google Fonts)
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 ```bash
 # Clone repository
